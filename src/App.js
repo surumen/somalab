@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import './styles/home.css';
 import './styles/slides.min.css';
-import '../styles/slide-normalize.css';
+import './styles/slide-normalize.css';
 
 class App extends Component {
     render() {
